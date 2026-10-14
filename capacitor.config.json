@@ -1,0 +1,5 @@
+{
+  "appId": "com.luigi.asm",
+  "appName": "Compilador ASM",
+  "webDir": "dist"
+}

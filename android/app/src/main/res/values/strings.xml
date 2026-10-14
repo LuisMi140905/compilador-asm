@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Compilador ASM</string>
+    <string name="title_activity_main">Compilador ASM</string>
+    <string name="package_name">com.luigi.asm</string>
+    <string name="custom_url_scheme">com.luigi.asm</string>
+</resources>
